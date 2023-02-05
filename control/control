@@ -1,5 +1,7 @@
-Package: test-package
+Package: hello-world-tune
 Version: 0.0.1
-Maintainer: Your Name <user@example.com>
-Description: This is just a test package
-Architecture: armv7-3.2
+Maintainer: D3VL <wtfos@d3vl.com>
+Description: Plays a little tune when you power on your goggles
+Architecture: pigeon-glasses
+Homepage: https://github.com/d3vl/wtfos-hello-world-tune
+Depends: dinit

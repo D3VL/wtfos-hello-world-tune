@@ -1,0 +1,2 @@
+#!/system/bin/sh
+/opt/sbin/dinitctl enable hello-world-tune || true
